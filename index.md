@@ -1,2 +1,3 @@
-#My Games 
-Welcome![Play Hop Hop](game.html)
+# My Games 
+Welcome 
+[Play Hop Hop](game.html)
